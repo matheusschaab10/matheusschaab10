@@ -25,9 +25,8 @@
   💌 Me acompanhem nas redes sociais: ⤵️
 </p>
 
-### 📫 How to reach me:
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=54991165044)
-[!Instagram](https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white)](
+[!Instagram](https://img.shields.io/badge/instagram%20@teen_developer-DD2476?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus.schaab/)
 <!--
 **matheusschaab10/matheusschaab10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
