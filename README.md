@@ -1,6 +1,21 @@
-### Hi i am Matheus Pereira Schaab 👋
+<br>
+
+
+
+	
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
+<br>### Hi i am Matheus Pereira Schaab 👋
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 
 <p align="left"> 
   Estudante de programação Full Stack - 17 anos - Picada Café/Rio Grande do Sul/Brasil 009c3b
@@ -14,20 +29,9 @@
   💌 Me acompanhem nas redes sociais: ⤵️
 </p>
 
-<p align="left">
-  <a href="#" alt="Gmail = matheusschaab5@gmail.com">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" /></a>
-
-  <a href="#" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/>WhatsApp= (54) 9 9116-5044</a>
-
-  <a href="#" alt="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK"/></a>
-
-  <a href="#" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
-</p>
-              
+### 📫 How to reach me:
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=54991165044)
+[!Instagram]
 <!--
 **matheusschaab10/matheusschaab10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
